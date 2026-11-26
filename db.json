@@ -1,0 +1,297 @@
+{
+  "videojuegos": [
+    {
+      "id": "5",
+      "nombre": "The Last of Us Part II",
+      "plataforma": "PlayStation 4",
+      "genero": "aventura",
+      "precio": "180000",
+      "desarrollador": "Naughty Dog"
+    },
+    {
+      "id": "6",
+      "nombre": "Red Dead Redemption 2",
+      "plataforma": "Xbox One",
+      "genero": "accion",
+      "precio": "160000",
+      "desarrollador": "Rockstar Games"
+    },
+    {
+      "id": "7",
+      "nombre": "Resident Evil 4",
+      "plataforma": "PlayStation 5",
+      "genero": "terror",
+      "precio": "190000",
+      "desarrollador": "Capcom"
+    },
+    {
+      "id": "8",
+      "nombre": "Mario Kart 8 Deluxe",
+      "plataforma": "Nintendo Switch",
+      "genero": "carreras",
+      "precio": "210000",
+      "desarrollador": "Nintendo"
+    },
+    {
+      "id": "10",
+      "nombre": "Call of Duty Modern Warfare III",
+      "plataforma": "PlayStation 5",
+      "genero": "accion",
+      "precio": "230000",
+      "desarrollador": "Activision"
+    },
+    {
+      "id": "11",
+      "nombre": "Forza Horizon 5",
+      "plataforma": "Xbox Series X",
+      "genero": "carreras",
+      "precio": "180000",
+      "desarrollador": "Playground Games"
+    },
+    {
+      "id": "12",
+      "nombre": "Hogwarts Legacy",
+      "plataforma": "PC",
+      "genero": "aventura",
+      "precio": "170000",
+      "desarrollador": "Avalanche Software"
+    },
+    {
+      "id": "13",
+      "nombre": "Elden Ring",
+      "plataforma": "PlayStation 5",
+      "genero": "rol",
+      "precio": "200000",
+      "desarrollador": "FromSoftware"
+    },
+    {
+      "id": "14",
+      "nombre": "Spider-Man 2",
+      "plataforma": "PlayStation 5",
+      "genero": "accion",
+      "precio": "240000",
+      "desarrollador": "Insomniac Games"
+    },
+    {
+      "id": "16",
+      "nombre": "Cyberpunk 2077",
+      "plataforma": "PC",
+      "genero": "rol",
+      "precio": "150000",
+      "desarrollador": "CD Projekt Red"
+    },
+    {
+      "id": "17",
+      "nombre": "Resident Evil Village",
+      "plataforma": "Xbox Series X",
+      "genero": "terror",
+      "precio": "140000",
+      "desarrollador": "Capcom"
+    },
+    {
+      "id": "18",
+      "nombre": "Gran Turismo 7",
+      "plataforma": "PlayStation 5",
+      "genero": "carreras",
+      "precio": "210000",
+      "desarrollador": "Polyphony Digital"
+    },
+    {
+      "id": "19",
+      "nombre": "Hollow Knight",
+      "plataforma": "Nintendo Switch",
+      "genero": "aventura",
+      "precio": "60000",
+      "desarrollador": "Team Cherry"
+    },
+    {
+      "id": "20",
+      "nombre": "Assassins Creed Valhalla",
+      "plataforma": "Xbox One",
+      "genero": "accion",
+      "precio": "130000",
+      "desarrollador": "Ubisoft"
+    },
+    {
+      "id": "B6nQVIQAkic"
+    },
+    {
+      "id": "E3OoCjKQ-Jo"
+    },
+    {
+      "id": "wTEUGlvOjyA"
+    },
+    {
+      "id": "zG8rzOS5n4I"
+    }
+  ],
+  "consolas": [
+    {
+      "id": "1",
+      "nombre": "PlayStation 5",
+      "fabricante": "Sony",
+      "generacion": "novena",
+      "tipo": "sobremesa",
+      "precio": "2500000"
+    },
+    {
+      "id": "2",
+      "nombre": "Xbox Series X",
+      "fabricante": "Microsoft",
+      "generacion": "novena",
+      "tipo": "sobremesa",
+      "precio": "2800000"
+    },
+    {
+      "id": "3",
+      "nombre": "Nintendo Switch",
+      "fabricante": "Nintendo",
+      "generacion": "octava",
+      "tipo": "hibrida",
+      "precio": "1500000"
+    },
+    {
+      "id": "4",
+      "nombre": "PlayStation 4",
+      "fabricante": "Sony",
+      "generacion": "octava",
+      "tipo": "sobremesa",
+      "precio": "1200000"
+    },
+    {
+      "id": "5",
+      "nombre": "Xbox One",
+      "fabricante": "Microsoft",
+      "generacion": "octava",
+      "tipo": "sobremesa",
+      "precio": "1100000"
+    },
+    {
+      "id": "6",
+      "nombre": "Nintendo Wii",
+      "fabricante": "Nintendo",
+      "generacion": "septima",
+      "tipo": "sobremesa",
+      "precio": "500000"
+    },
+    {
+      "id": "7",
+      "nombre": "PlayStation 3",
+      "fabricante": "Sony",
+      "generacion": "septima",
+      "tipo": "sobremesa",
+      "precio": "600000"
+    },
+    {
+      "id": "8",
+      "nombre": "Xbox 360",
+      "fabricante": "Microsoft",
+      "generacion": "septima",
+      "tipo": "sobremesa",
+      "precio": "550000"
+    },
+    {
+      "id": "9",
+      "nombre": "Nintendo 3DS",
+      "fabricante": "Nintendo",
+      "generacion": "octava",
+      "tipo": "portatil",
+      "precio": "700000"
+    },
+    {
+      "id": "10",
+      "nombre": "PlayStation Vita",
+      "fabricante": "Sony",
+      "generacion": "octava",
+      "tipo": "portatil",
+      "precio": "650000"
+    },
+    {
+      "id": "11",
+      "nombre": "Xbox Series S",
+      "fabricante": "Microsoft",
+      "generacion": "novena",
+      "tipo": "sobremesa",
+      "precio": "1800000"
+    },
+    {
+      "id": "12",
+      "nombre": "Nintendo Switch Lite",
+      "fabricante": "Nintendo",
+      "generacion": "octava",
+      "tipo": "portatil",
+      "precio": "900000"
+    },
+    {
+      "id": "13",
+      "nombre": "PlayStation 2",
+      "fabricante": "Sony",
+      "generacion": "sexta",
+      "tipo": "sobremesa",
+      "precio": "350000"
+    },
+    {
+      "id": "14",
+      "nombre": "Xbox Original",
+      "fabricante": "Microsoft",
+      "generacion": "sexta",
+      "tipo": "sobremesa",
+      "precio": "400000"
+    },
+    {
+      "id": "15",
+      "nombre": "Nintendo GameCube",
+      "fabricante": "Nintendo",
+      "generacion": "sexta",
+      "tipo": "sobremesa",
+      "precio": "450000"
+    },
+    {
+      "id": "16",
+      "nombre": "Game Boy Advance",
+      "fabricante": "Nintendo",
+      "generacion": "sexta",
+      "tipo": "portatil",
+      "precio": "300000"
+    },
+    {
+      "id": "17",
+      "nombre": "Nintendo DS",
+      "fabricante": "Nintendo",
+      "generacion": "septima",
+      "tipo": "portatil",
+      "precio": "400000"
+    },
+    {
+      "id": "18",
+      "nombre": "PlayStation 5 Slim",
+      "fabricante": "Sony",
+      "generacion": "novena",
+      "tipo": "sobremesa",
+      "precio": "2300000"
+    },
+    {
+      "id": "19",
+      "nombre": "Steam Deck",
+      "fabricante": "Valve",
+      "generacion": "novena",
+      "tipo": "portatil",
+      "precio": "2500000"
+    },
+    {
+      "id": "20",
+      "nombre": "Atari 2600",
+      "fabricante": "Atari",
+      "generacion": "segunda",
+      "tipo": "sobremesa",
+      "precio": "500000"
+    },
+    {
+      "id": "3Smes_HRzqI"
+    }
+  ],
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
